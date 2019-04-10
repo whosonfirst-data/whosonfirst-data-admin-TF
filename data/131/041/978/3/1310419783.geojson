@@ -1,0 +1,65 @@
+{
+  "id": 1310419783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.5648,-37.79703,77.5648,-37.79703",
+    "geom:latitude":-37.79703,
+    "geom:longitude":77.5648,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Martin-de-Vivies",
+    "gn:country_code":"TF",
+    "gn:dem":33,
+    "gn:elevation":"453.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11594686,
+    "gn:latitude":-37.79703,
+    "gn:longitude":77.5648,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Martin-de-Vivi\u00e8s",
+    "gn:population":45,
+    "gn:timezone":"Indian/Kerguelen",
+    "iso:country":"TF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11594686
+    },
+    "wof:country":"TF",
+    "wof:geomhash":"f870fc9799ac86535df6668fa19f113a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310419783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310419783,
+    "wof:lastmodified":1537038918,
+    "wof:name":"Martin-de-Vivies",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.5648,
+    -37.79703,
+    77.5648,
+    -37.79703
+],
+  "geometry": {"coordinates":[77.56480000000001,-37.79703],"type":"Point"}
+}

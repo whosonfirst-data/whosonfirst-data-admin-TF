@@ -1,0 +1,250 @@
+{
+  "id": 85668153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006454,
+    "geom:area_square_m":62892581.406178,
+    "geom:bbox":"77.4875594415,-38.7384579406,77.5852156912,-37.8202450495",
+    "geom:latitude":-37.994104,
+    "geom:longitude":77.534773,
+    "gn:id":"",
+    "iso:country":"TF",
+    "label:eng_x_preferred_longname":[
+        "Iles Saint-Paul et Nouvelle-Amsterdam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-37.858496,
+    "lbl:longitude":77.535552,
+    "mps:latitude":-37.858496,
+    "mps:longitude":77.535552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Amsterdameiland"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0623\u0645\u0633\u062a\u0631\u062f\u0627\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "Amsterdam adas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0410\u043c\u0441\u0442\u044d\u0440\u0434\u0430\u043c"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Amsterdam"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Amsterdam"
+    ],
+    "name:ces_x_preferred":[
+        "Amsterdam"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c"
+    ],
+    "name:cze_x_preferred":[
+        "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
+    ],
+    "name:cze_x_variant":[
+        "Francouzsk\u00e1 ji\u017en\u00ed teritoria"
+    ],
+    "name:dan_x_preferred":[
+        "Franske Sydlige Territorier"
+    ],
+    "name:dan_x_variant":[
+        "Franske overs\u00f8iske omr\u00e5der"
+    ],
+    "name:deu_x_preferred":[
+        "Amsterdam-Insel"
+    ],
+    "name:deu_x_variant":[
+        "Franz\u00f6sische S\u00fcd- Und Antarktisgebiete",
+        "Franz\u00f6sische S\u00fcdgebiete"
+    ],
+    "name:eng_x_preferred":[
+        "Iles Saint-Paul et Nouvelle-Amsterdam"
+    ],
+    "name:eng_x_unknown":[
+        "TF"
+    ],
+    "name:eng_x_variant":[
+        "French Southern Territories",
+        "Amsterdam and Saint-Paul"
+    ],
+    "name:fin_x_colloquial":[
+        "Ranskan ulkopuoliset etelaiset alueet"
+    ],
+    "name:fin_x_preferred":[
+        "Ranskan Etel\u00e4iset Ja Antarktiset Alueet"
+    ],
+    "name:fin_x_variant":[
+        "Ranskan etel\u00e4iset alueet",
+        "Ranskan ulkopuoliset etel\u00e4iset alueet"
+    ],
+    "name:fra_x_preferred":[
+        "Terres Australes Et Antarctiques Fran\u00e7aises"
+    ],
+    "name:fra_x_variant":[
+        "Territoire des Terres Australes et Antarctiques Fran\u00e7aises",
+        "Territoires d\u2019Outre-mer (France)"
+    ],
+    "name:hun_x_preferred":[
+        "Francia D\u00e9li \u00c9s Antarktiszi Ter\u00fcletek"
+    ],
+    "name:hun_x_variant":[
+        "Francia D\u00e9li Ter\u00fcletek"
+    ],
+    "name:ita_x_preferred":[
+        "Terre Australi E Antartiche Francesi"
+    ],
+    "name:ita_x_variant":[
+        "Territori Francesi Meridionali"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30f3\u30b9\u9818\u6975\u5357\u8af8\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d5\u30e9\u30f3\u30b9\u5357\u90e8\u9818",
+        "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub791\uc2a4\ub0a8\ubd80\uc9c0\uc5ed",
+        "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc9c0\uc5ed"
+    ],
+    "name:nld_x_preferred":[
+        "Franse Zuidelijke en Antarctische Gebieden"
+    ],
+    "name:nld_x_variant":[
+        "Franse Gebieden in de zuidelijke Indische Oceaan"
+    ],
+    "name:nor_x_colloquial":[
+        "De Franske Sorterritorier"
+    ],
+    "name:nor_x_preferred":[
+        "De Franske S\u00f8rterritorier"
+    ],
+    "name:pol_x_preferred":[
+        "Francuskie Terytoria Po\u0142udniowe I Antarktyczne"
+    ],
+    "name:pol_x_variant":[
+        "Francuskie Terytoria Po\u0142udniowe"
+    ],
+    "name:por_x_preferred":[
+        "Terras Austrais E Ant\u00e1rticas Francesas"
+    ],
+    "name:por_x_variant":[
+        "Territ\u00f3rios Franceses do Sul"
+    ],
+    "name:rum_x_preferred":[
+        "Teritoriile Australe \u015ei Antarctice Franceze"
+    ],
+    "name:rum_x_variant":[
+        "Teritoriile Franceze de Sud"
+    ],
+    "name:spa_x_preferred":[
+        "Tierras Australes Y Ant\u00e1rticas Francesas"
+    ],
+    "name:spa_x_variant":[
+        "Territorios Australes Franceses"
+    ],
+    "name:swe_x_preferred":[
+        "Franska sydterritorierna"
+    ],
+    "name:swe_x_variant":[
+        "Franska Syd- och Antarktis Territorier"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u570b\u5357\u90e8\u9818\u571f"
+    ],
+    "name:zho_x_variant":[
+        "\u6cd5\u56fd\u5357\u90e8\u9886\u571f"
+    ],
+    "qs:a0":"French Southern and Antarctic Lands",
+    "qs:a0_lc":"TF",
+    "qs:a1":"Iles Saint-Paul et Nouvelle-Amsterdam",
+    "qs:a1_lc":"ATF-5918",
+    "qs:adm0":"French Southern and Antarctic Lands",
+    "qs:adm0_a3":"ATF",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-01-01",
+    "statoids:area_km":"61",
+    "statoids:area_mi":"24",
+    "statoids:as_of_date":"2000-01-01",
+    "statoids:capital":"Martin-de-Vivi\u00e8s",
+    "statoids:country":"TF",
+    "statoids:gec":"",
+    "statoids:hasc":"TF.AS",
+    "statoids:iso":"",
+    "statoids:name":"Amsterdam and Saint-Paul",
+    "statoids:population":"30",
+    "statoids:timezone":"+5",
+    "statoids:type":"district",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632549,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28289406,
+        "hasc:id":"TF.AS",
+        "qs:id":1209134
+    },
+    "wof:country":"TF",
+    "wof:geomhash":"55ce0a96835310b4d039ab0ab2480b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632549,
+            "empire_id":136253037,
+            "region_id":85668153
+        }
+    ],
+    "wof:id":85668153,
+    "wof:lang_x_official":[],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553550294,
+    "wof:name":"Iles Saint-Paul et Nouvelle-Amsterdam",
+    "wof:parent_id":85632549,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tf",
+    "wof:shortcode":"AS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.48755944151509,
+    -38.73845794058144,
+    77.58521569115129,
+    -37.82024504946941
+],
+  "geometry": {"coordinates":[[[[77.54468834748928,-38.73748137756348],[77.53614342467938,-38.73845794058144],[77.51636803525668,-38.7354468727749],[77.51246178498343,-38.72991301867086],[77.50652102992166,-38.71314869615537],[77.51091556080456,-38.70574309656661],[77.51905358175748,-38.70240650745433],[77.52751712311681,-38.70574309656661],[77.53288821701767,-38.70916106533087],[77.54525800954957,-38.7234026015488],[77.54932701912668,-38.73113372154398],[77.54468834748928,-38.73748137756348]]],[[[77.56527753972671,-37.89316171673977],[77.53663170708768,-37.90113697659018],[77.50464928533631,-37.88241952893804],[77.48755944151509,-37.85165781005986],[77.50375410197029,-37.82350025803044],[77.54395592522582,-37.82024504946941],[77.57471764410406,-37.84351979000627],[77.58521569115129,-37.87420012743388],[77.56527753972671,-37.89316171673977]]]],"type":"MultiPolygon"}
+}
