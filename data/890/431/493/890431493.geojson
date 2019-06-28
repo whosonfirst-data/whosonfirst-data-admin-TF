@@ -21,22 +21,16 @@
     "name:cat_x_preferred":[
         "Port-aux-Fran\u00e7ais"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u5170\u897f\u6e2f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Port-aux-Fran\u00e7ais"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Port-aux-Fran\u00e7ais"
     ],
     "name:eng_x_preferred":[
         "Port-aux-Fran\u00e7ais"
     ],
-    "name:fre_x_preferred":[
-        "Port-aux-Fran\u00e7ais"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Port-aux-Fran\u00e7ais"
     ],
     "name:heb_x_preferred":[
@@ -59,6 +53,9 @@
     ],
     "name:lit_x_preferred":[
         "Port o Frans\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Port-aux-Fran\u00e7ais"
     ],
     "name:nno_x_preferred":[
         "Port-aux-Fran\u00e7ais"
@@ -132,7 +129,7 @@
         }
     ],
     "wof:id":890431493,
-    "wof:lastmodified":1527735417,
+    "wof:lastmodified":1561751410,
     "wof:name":"Port-aux-Fran\u00e7ais",
     "wof:parent_id":85668143,
     "wof:placetype":"locality",

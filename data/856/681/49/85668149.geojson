@@ -25,7 +25,7 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
     ],
     "name:cze_x_variant":[
@@ -120,7 +120,7 @@
     "name:por_x_variant":[
         "Territ\u00f3rios Franceses do Sul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Teritoriile Australe \u015ei Antarctice Franceze"
     ],
     "name:rum_x_variant":[
@@ -198,7 +198,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550294,
+    "wof:lastmodified":1561751410,
     "wof:name":"Archipel des Crozet",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
