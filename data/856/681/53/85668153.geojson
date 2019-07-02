@@ -49,11 +49,11 @@
     "name:ces_x_preferred":[
         "Amsterdam"
     ],
+    "name:ces_x_variant":[
+        "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
+    ],
     "name:chv_x_preferred":[
         "\u0410\u043c\u0441\u0442\u0435\u0440\u0434\u0430\u043c"
-    ],
-    "name:cze_x_preferred":[
-        "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
     ],
     "name:cze_x_variant":[
         "Francouzsk\u00e1 ji\u017en\u00ed teritoria"
@@ -148,7 +148,7 @@
     "name:por_x_variant":[
         "Territ\u00f3rios Franceses do Sul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Teritoriile Australe \u015ei Antarctice Franceze"
     ],
     "name:rum_x_variant":[
@@ -226,7 +226,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550294,
+    "wof:lastmodified":1561751410,
     "wof:name":"Iles Saint-Paul et Nouvelle-Amsterdam",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
