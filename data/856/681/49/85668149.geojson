@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":-46.398634,
     "lbl:longitude":51.746489,
     "mps:latitude":-46.398634,
@@ -198,7 +201,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561751410,
+    "wof:lastmodified":1565736947,
     "wof:name":"Archipel des Crozet",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

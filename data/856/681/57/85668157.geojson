@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IE"
+    ],
     "lbl:latitude":-22.335347,
     "lbl:longitude":40.344447,
     "mps:latitude":-22.335347,
@@ -198,7 +201,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561751410,
+    "wof:lastmodified":1565736947,
     "wof:name":"Iles Eparses de l'ocean Indien",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

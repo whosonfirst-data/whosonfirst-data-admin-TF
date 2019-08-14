@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":-37.858496,
     "lbl:longitude":77.535552,
     "mps:latitude":-37.858496,
@@ -226,7 +229,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561751410,
+    "wof:lastmodified":1565736947,
     "wof:name":"Iles Saint-Paul et Nouvelle-Amsterdam",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

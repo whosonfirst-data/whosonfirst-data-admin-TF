@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":-49.303721,
     "lbl:longitude":69.122136,
     "mps:latitude":-49.303721,
@@ -260,7 +263,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561751410,
+    "wof:lastmodified":1565736947,
     "wof:name":"Archipel des Kerguelen",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
