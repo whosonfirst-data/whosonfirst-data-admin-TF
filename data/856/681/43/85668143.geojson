@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-49.303721,
     "lbl:longitude":69.122136,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-49.303721,
     "mps:longitude":69.122136,
     "mz:hierarchy_label":1,
@@ -141,9 +142,6 @@
     "name:swe_x_variant":[
         "Franska Syd- och Antarktis Territorier"
     ],
-    "name:unk_x_variant":[
-        "Kerguelen"
-    ],
     "name:zho_x_preferred":[
         "\u6cd5\u570b\u5357\u90e8\u9818\u571f"
     ],
@@ -219,9 +217,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"7,215",
     "statoids:area_mi":"2,786",
     "statoids:as_of_date":"2000-01-01",
@@ -245,7 +243,7 @@
         "gn:id":1546558,
         "gp:id":28289406,
         "hasc:id":"TF.KG",
-        "qs:id":1209134
+        "qs_pg:id":1209134
     },
     "wof:country":"TF",
     "wof:geomhash":"f65554ba2c38425f7614553e1bca176e",
@@ -263,11 +261,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565736947,
+    "wof:lastmodified":1566654214,
     "wof:name":"Archipel des Kerguelen",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":80,
     "wof:population_rank":1,
