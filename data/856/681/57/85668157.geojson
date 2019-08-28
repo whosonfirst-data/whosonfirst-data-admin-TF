@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-22.335347,
     "lbl:longitude":40.344447,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-22.335347,
     "mps:longitude":40.344447,
     "mz:hierarchy_label":1,
@@ -158,9 +159,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"38",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2000-01-01",
@@ -173,7 +174,6 @@
     "statoids:population":"0",
     "statoids:timezone":"+4",
     "statoids:type":"district",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632549,
@@ -183,7 +183,7 @@
     "wof:concordances":{
         "gp:id":28289406,
         "hasc:id":"TF.IE",
-        "qs:id":1209134
+        "qs_pg:id":1209134
     },
     "wof:country":"TF",
     "wof:geomhash":"3f5c96bb7b1bf82d335dbd6ddb2655be",
@@ -201,11 +201,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565736947,
+    "wof:lastmodified":1566654214,
     "wof:name":"Iles Eparses de l'ocean Indien",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tf",

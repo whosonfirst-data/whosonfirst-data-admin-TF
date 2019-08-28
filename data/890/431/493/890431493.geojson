@@ -11,10 +11,14 @@
     "geom:longitude":70.21667,
     "gn:country":"TF",
     "gn:fcode":"PPLC",
-    "gn:pop":45,
+    "gn:population":45,
     "iso:country":"TF",
+    "lbl:bbox":"70.19667,-49.37,70.23667,-49.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Port-aux-Fran\u00e7ais"
     ],
@@ -111,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1546102,
-        "qs:id":276711,
+        "qs_pg:id":276711,
         "wd:id":"Q839559",
         "wk:page":"Port-aux-Fran\u00e7ais"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890431493,
-    "wof:lastmodified":1561751410,
+    "wof:lastmodified":1566654215,
     "wof:name":"Port-aux-Fran\u00e7ais",
     "wof:parent_id":85668143,
     "wof:placetype":"locality",
