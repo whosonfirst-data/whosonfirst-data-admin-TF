@@ -229,6 +229,9 @@
         "qs:id":1209134
     },
     "wof:country":"TF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc79196558453942c5af83b544593bf2",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":85632337,
-    "wof:lastmodified":1561751410,
+    "wof:lastmodified":1582347814,
     "wof:name":"Bassas da India",
     "wof:parent_id":85633147,
     "wof:placetype":"dependency",
