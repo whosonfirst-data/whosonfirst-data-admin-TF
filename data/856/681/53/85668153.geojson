@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006454,
-    "geom:area_square_m":62892581.406178,
+    "geom:area_square_m":62893115.457484,
     "geom:bbox":"77.487559,-38.738458,77.585216,-37.820245",
     "geom:latitude":-37.994101,
     "geom:longitude":77.534773,
@@ -232,8 +232,9 @@
         "hasc:id":"TF.AS",
         "qs_pg:id":1209134
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TF",
-    "wof:geomhash":"162768d1e428e017d968d211eb6a9ff7",
+    "wof:geomhash":"f27a51bf41d922dfc985ddd14e7ca72e",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -248,7 +249,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501635,
+    "wof:lastmodified":1695884899,
     "wof:name":"Iles Saint-Paul et Nouvelle-Amsterdam",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
