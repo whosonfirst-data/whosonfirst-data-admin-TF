@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02397,
-    "geom:area_square_m":204775256.563456,
+    "geom:area_square_m":204774998.965391,
     "geom:bbox":"50.175548,-46.451267,51.868175,-46.043715",
     "geom:latitude":-46.298377,
     "geom:longitude":51.280621,
@@ -204,8 +204,9 @@
         "hasc:id":"TF.CR",
         "qs_pg:id":1209134
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TF",
-    "wof:geomhash":"62d3365750d27a26d7932ca7eeba1abc",
+    "wof:geomhash":"0cef72761259bdd36e73c11060b90982",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -220,7 +221,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501636,
+    "wof:lastmodified":1695884899,
     "wof:name":"Archipel des Crozet",
     "wof:parent_id":85632549,
     "wof:placetype":"region",

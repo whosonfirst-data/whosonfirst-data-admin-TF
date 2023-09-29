@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.863696,
-    "geom:area_square_m":6964745232.514854,
+    "geom:area_square_m":6964746222.288415,
     "geom:bbox":"68.610118,-49.721612,70.568533,-48.566664",
     "geom:latitude":-49.296081,
     "geom:longitude":69.488949,
@@ -264,8 +264,9 @@
         "hasc:id":"TF.KG",
         "qs_pg:id":1209134
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TF",
-    "wof:geomhash":"641a446026f0c2444e347c3887d71a4e",
+    "wof:geomhash":"d8b5ee76c2d707a7dbfda3986f04866e",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -280,7 +281,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501635,
+    "wof:lastmodified":1695884899,
     "wof:name":"Archipel des Kerguelen",
     "wof:parent_id":85632549,
     "wof:placetype":"region",
